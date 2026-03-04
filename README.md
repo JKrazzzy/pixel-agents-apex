@@ -1,4 +1,5 @@
-# Pixel Agents
+# Pixel Agents (Apex Recreation)
+A recreation of pablodelucca/pixel-agents by Apex for independent implementation tracking.
 
 A VS Code extension that turns your AI coding agents into animated pixel art characters in a virtual office.
 
@@ -131,3 +132,7 @@ If you find Pixel Agents useful, consider supporting its development:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+<<<<<<< HEAD
+=======
+>>>>>>> 250eed3 (Initial recreation of pixel-agents)
+>>>>>>> 437be7b77bb5e2f3eed546a234c2788ffb1a8ed3
